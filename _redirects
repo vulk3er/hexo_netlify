@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://vulk3er.netlify.com/* https://mistwen.com/:splat 301!
+http://vulk3er.netlify.com/* http://mistwen.com/:splat 301!
